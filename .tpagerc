@@ -5,4 +5,5 @@ start_tag=<%
 end_tag=%>
 include_path=include
 wrapper=wrapper.html
+pre_process=tags.html
 
