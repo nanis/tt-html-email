@@ -1,0 +1,7 @@
+pre_chomp=1
+post_chomp=1
+trim=1
+start_tag=<%
+end_tag=%>
+include_path=include
+
